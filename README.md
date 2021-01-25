@@ -1,9 +1,14 @@
-# tests_integration
+# Tests_integration
 
-# Launch API
+## Launch API
 
-node index.js
+- node index.js
 
-# Launch test
+## Installation
 
-npm test 
+- git clone
+- npm i
+
+## Launch test
+
+- npm test 
